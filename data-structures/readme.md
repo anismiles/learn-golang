@@ -7,3 +7,6 @@ objective:
 run:
 
 go run <...>.go
+
+go build maps
+./maps <file>
